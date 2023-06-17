@@ -6,7 +6,11 @@
   padding: 6rem;
   min-height: 100vh;
 }
-
+.title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
 .description {
   display: inherit;
   justify-content: inherit;
@@ -97,7 +101,7 @@
 
 .center::before,
 .center::after {
-  content: '';
+  content: "";
   left: 50%;
   position: absolute;
   filter: blur(45px);
