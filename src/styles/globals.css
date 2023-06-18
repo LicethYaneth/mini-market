@@ -106,6 +106,8 @@ a {
 
 h2 {
   color: var(--primary-button);
+  font-weight: 500;
+  font-family: "Araboto Font", sans-serif;
 }
 
 @media (prefers-color-scheme: dark) {
