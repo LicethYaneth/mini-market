@@ -1,6 +1,7 @@
 import styles from "@/styles/page.module.css";
 import localFont from "next/font/local";
-import { Card } from "@/components/card";
+import { Navbar } from "@/components";
+import StorePage from "./store/page";
 
 const core = localFont({
   src: [
@@ -21,7 +22,10 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={core.className}>MINI MARKET · CART </div>
-      <Card />
+      <div className={styles.card}>
+        <Navbar />
+        <StorePage />
+      </div>
     </main>
   );
 }

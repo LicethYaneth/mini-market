@@ -1,3 +1,2 @@
-export {navbar} from './navbar';
-export {navbar} from './navbar';
-export {card} from './card';
+export { Navbar } from "./Navbar";
+export { Cart } from "./Cart";

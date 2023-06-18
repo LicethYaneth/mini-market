@@ -1,10 +1,7 @@
 .navbar {
-  --primary-button: rgb(171, 0, 185);
-  --second-gradient: rgb(105, 0, 120);
-
   display: flex;
   justify-content: space-between;
-  margin: 3rem;
+  align-items: center;
 }
 
 .button {
