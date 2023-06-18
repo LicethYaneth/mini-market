@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="logoshop.svg">
+   sodipodi:docname="logoshop.svg"
+   inkscape:export-filename="/home/licethyanetrozoquintana/Documentos/logo.png"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600">
   <defs
      id="defs2">
     <linearGradient
@@ -641,6 +644,37 @@ hlaUDQa/N2TcDSD7Vgoq6PpjUMastUJ1s8Fm8lJKhWCp/wevXkeKByDDwwAAAABJRU5ErkJggg==
        x2="113.10307"
        y2="212.944"
        spreadMethod="pad" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5371-5"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect5371-3-3"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       gradientTransform="translate(347.30499,18.078783)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient5437"
+       id="linearGradient5431-5"
+       gradientUnits="userSpaceOnUse"
+       x1="-6.6336746"
+       y1="91.603638"
+       x2="113.10307"
+       y2="212.944"
+       spreadMethod="pad" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -650,10 +684,10 @@ hlaUDQa/N2TcDSD7Vgoq6PpjUMastUJ1s8Fm8lJKhWCp/wevXkeKByDDwwAAAABJRU5ErkJggg==
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="337.19994"
+     inkscape:cx="206.91319"
      inkscape:cy="203.35816"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g5449"
      showgrid="false"
      showguides="false"
      inkscape:window-width="1366"
@@ -685,14 +719,6 @@ hlaUDQa/N2TcDSD7Vgoq6PpjUMastUJ1s8Fm8lJKhWCp/wevXkeKByDDwwAAAABJRU5ErkJggg==
     <g
        id="g5444"
        transform="matrix(1,0,0,0.99066764,0,1.9872703)">
-      <rect
-         ry="11.805923"
-         y="41.405281"
-         x="-57.648586"
-         height="171.53873"
-         width="170.75166"
-         id="rect5330"
-         style="opacity:1;fill:url(#linearGradient5431);fill-opacity:1;fill-rule:nonzero;stroke:#790086;stroke-width:0.59162772;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <g
          id="g5394">
         <g
@@ -702,7 +728,7 @@ hlaUDQa/N2TcDSD7Vgoq6PpjUMastUJ1s8Fm8lJKhWCp/wevXkeKByDDwwAAAABJRU5ErkJggg==
              inkscape:connector-curvature="0"
              id="path5355"
              d="m -21.916095,105.63502 -1.06908,62.00653 83.38809,17.63978 16.03617,-6.41446 -0.53454,-80.715403 -17.63979,-8.018081 z"
-             style="fill:#f9f9f9;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
           <path
              transform="matrix(0.99978841,0,0,1.1413902,195.13247,-7.1579145)"
              inkscape:original-d="m -178.21577,99.696427 c -0.18872,-5.984888 -0.37771,-11.969511 -0.56697,-17.953868 1.95306,-2.960952 3.90602,-5.921893 5.85863,-8.88244 4.85046,-1.071087 9.70166,-2.14213 14.55209,-3.212799 2.51995,1.0706 5.03995,2.141601 7.55952,3.212799 0.94516,7.432886 1.89015,14.866797 2.83482,22.300594"
@@ -721,6 +747,12 @@ hlaUDQa/N2TcDSD7Vgoq6PpjUMastUJ1s8Fm8lJKhWCp/wevXkeKByDDwwAAAABJRU5ErkJggg==
              style="fill:none;stroke:#ffffff;stroke-width:2.80834293;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
         </g>
       </g>
+      <g
+         transform="translate(347.30499,18.078783)"
+         id="g5394-1"
+         inkscape:export-filename="/home/licethyanetrozoquintana/Documentos/logo.png"
+         inkscape:export-xdpi="600"
+         inkscape:export-ydpi="600" />
     </g>
   </g>
 </svg>
