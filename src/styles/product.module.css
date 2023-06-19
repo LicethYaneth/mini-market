@@ -1,0 +1,9 @@
+.products {
+  flex-grow: 4;
+  margin: 0 0 0 2rem;
+}
+.descripcion {
+  color: var(--grey-color);
+  margin-top: 1rem;
+  font-weight: 600;
+}
