@@ -4,10 +4,28 @@
   margin-top: 1rem;
 }
 .containerstore div {
-  border: var(--grey-color) 1px solid;
+  border: var(--grey-color) 2px solid;
   margin: 0;
   display: grid;
   grid-template-rows: 1fr auto;
   margin-bottom: 1rem;
   break-inside: avoid;
+}
+.containerstore div:active {
+  border: var(--primary-button) 2px solid;
+}
+.tag {
+  float: left;
+  position: absolute;
+  z-index: 1000;
+  background-color: var(--primary-button);
+  border-radius: 100%;
+  width: 2rem;
+  height: 2.1rem;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  border: var(--primary-button) solid 1px !important;
+  margin: 0.3rem !important;
+  font-weight: bold;
 }
