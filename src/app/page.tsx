@@ -1,9 +1,12 @@
+"use client";
+
 import styles from "@/styles/page.module.css";
 import localFont from "next/font/local";
 import { Navbar } from "@/components";
 import StorePage from "./store/page";
 import ProductPage from "./product/page";
-
+import { Provider } from "react-redux";
+import store from "@/redux/store";
 const core = localFont({
   src: [
     {
@@ -21,15 +24,17 @@ const core = localFont({
 
 export default function Home() {
   return (
-    <main className={styles.main}>
-      <div className={core.className}>MINI MARKET · CART </div>
-      <div className={styles.card}>
-        <Navbar />
-        <div className={styles.container}>
-          <StorePage />
-          <ProductPage />
+    <Provider store={store}>
+      <main className={styles.main}>
+        <div className={core.className}>MINI MARKET · CART </div>
+        <div className={styles.card}>
+          <Navbar />
+          <div className={styles.container}>
+            <StorePage />
+            <ProductPage />
+          </div>
         </div>
-      </div>
-    </main>
+      </main>
+    </Provider>
   );
 }
