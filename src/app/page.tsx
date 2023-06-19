@@ -25,7 +25,7 @@ export default function Home() {
       <div className={core.className}>MINI MARKET · CART </div>
       <div className={styles.card}>
         <Navbar />
-        <div>
+        <div className={styles.container}>
           <StorePage />
           <ProductPage />
         </div>
